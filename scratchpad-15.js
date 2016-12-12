@@ -1,7 +1,7 @@
-var someStr = "my string";
-console.log(someStr.charAt(0));
-console.log("hello".indexOf("o"));
-console.log(someStr.toUpperCase());
-var someNum = 4.32;
-console.log(someNum.toFixed(4));
-var someBool = true;
+console.log(Math.PI);
+console.log(Math.E);
+console.log(Math.ceil(4.32));
+console.log(Math.floor(3.54));
+console.log(Math.random());
+console.log(Math.round(3.24));
+console.log(Math.sqrt(2));
